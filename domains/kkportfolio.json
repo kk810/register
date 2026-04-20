@@ -5,6 +5,9 @@
     },
     "description": "Portfolio of Krishna Koundinya Vutukuru, Operations Leader from Hyderabad.",
     "records": {
-        "CNAME": "portfolio-12x.pages.dev"
+        "NS": [
+            "aspen.ns.cloudflare.com",
+            "byron.ns.cloudflare.com"
+        ]
     }
 }
